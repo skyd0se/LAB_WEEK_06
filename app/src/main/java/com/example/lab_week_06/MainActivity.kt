@@ -59,6 +59,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BalineseJavanese,
+                    "Leo",
+                    "Loves climbing",
+                    "https://cdn2.thecatapi.com/images/cdu.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Luna",
+                    "Sleeps 18 hours a day",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Milo",
+                    "Professional sofa scratcher",
+                    "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Chloe",
+                    "Grooming queen with attitude",
+                    "https://cdn2.thecatapi.com/images/6qi.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Oscar",
+                    "Always hungry, never sorry",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.AmericanCurl,
+                    "Mochi",
+                    "Rolls like a ball when excited",
+                    "https://cdn2.thecatapi.com/images/8nn.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Nala",
+                    "The diva of the neighborhood",
+                    "https://cdn2.thecatapi.com/images/9ma.jpg"
                 )
             )
         )

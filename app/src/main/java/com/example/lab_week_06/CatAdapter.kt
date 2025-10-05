@@ -80,5 +80,4 @@ imageLoader: ImageLoader, private val onClickListener:
             removeItem(position)
         }
     }
-
         }
